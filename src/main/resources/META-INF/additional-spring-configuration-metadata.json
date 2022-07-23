@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "baidu.sdk.connection-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.baidu.aip.config.BaiduProperties",
+      "description": "Remote Connection Timeout (milliseconds) .",
+      "defaultValue": "10000"
+    },
+    {
+      "name": "baidu.sdk.socket-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.baidu.aip.config.BaiduProperties",
+      "description": "Remote socket Timeout (milliseconds) .",
+      "defaultValue": "10000"
+    }
+  ]
+}
